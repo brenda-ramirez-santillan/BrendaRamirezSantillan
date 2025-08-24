@@ -45,4 +45,4 @@ Spanish (native) · French (bilingual) · English (B2)
 ## Get in Touch
 - Email: **ramirez.santillan.brenda@gmail.com**  
 - LinkedIn: **https://www.linkedin.com/in/brenda-ramirez-santillan**  
-- Portfolio: **https://brenda-ramirez-santillan.github.io/**
+- Site: **https://brenda-ramirez-santillan.github.io/**
